@@ -5,7 +5,7 @@
  * see: https://github.com/dcodeio/protobuf.js for details
  */
 (function(global,undefined){"use strict";(function prelude(modules, cache, entries) {
-
+    console.log("loaded protobuflight")
     // This is the prelude used to bundle protobuf.js for the browser. Wraps up the CommonJS
     // sources through a conflict-free require shim and is again wrapped within an iife that
     // provides a unified `global` and a minification-friendly `undefined` var plus a global
